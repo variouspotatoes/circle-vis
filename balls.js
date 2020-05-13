@@ -296,7 +296,7 @@ function animate(t) {
     requestAnimationFrame(animate);
 }
 
-let count = 200;
+let count = 100;
 
 $('canvas').mouseenter(function(e) {
     let x = e.clientX;
